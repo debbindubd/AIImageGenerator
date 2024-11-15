@@ -35,5 +35,8 @@ All designed for an efficient and user-friendly experience.
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/ai-image-generator.git
-   cd ai-image-generator
+   git clone https://github.com/debbindubd/AIImageGenerator.git
+   cd AIImageGenerator
+   Create and Python Env
+   Install Requiments.txt file
+   run: streamlit run app.py
